@@ -1,0 +1,10 @@
+﻿  CountLineNumber.cpp
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\CountLineNumber.cpp(38,28): error C2660: 'LineCount::count_line_in_files': function does not take 0 arguments
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\CountLineNumber.cpp(14,22): message : see declaration of 'LineCount::count_line_in_files'
+  file1.cpp
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\file1.cpp(1,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\file1.cpp(1,3): error C2146: syntax error: missing ';' before identifier 'think'
+  File2.cpp
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\File2.cpp(1,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mingo\OneDrive\Desktop\CountLineNumber\File2.cpp(1,3): error C2146: syntax error: missing ';' before identifier 'am'
+  Generating Code...
