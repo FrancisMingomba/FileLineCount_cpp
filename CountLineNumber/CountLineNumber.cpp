@@ -45,6 +45,12 @@ public:
     }
 
 };
+class countFile3 {
+public:
+    void newLine() {
+        int  lineNumber = 6;
+    }
+};
 
 int main()
 {
