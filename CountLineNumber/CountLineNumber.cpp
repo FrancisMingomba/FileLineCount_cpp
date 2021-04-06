@@ -51,11 +51,14 @@ public:
         int  lineNumber = 6;
     }
 };
+class FileNumberToCount {
+    int num = 8;
+};
 
 int main()
 {
     LineCount lc;
-    lc.count_line_in_files();
+   // lc.count_line_in_files();
 
 
     std::cout << "Hello World!\n";
