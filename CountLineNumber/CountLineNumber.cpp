@@ -31,11 +31,25 @@ public:
         return results;
     }
 };
+class countFile1 {
+public:
+    void ShowNumnber() {
+        int number = 2;
+    }
+
+};
+class countFile2 {
+public:
+    void DeleteNumber() {
+        int number = 4;
+    }
+
+};
 
 int main()
 {
     LineCount lc;
-    lc.count_line_in_files(0);
+    lc.count_line_in_files();
 
 
     std::cout << "Hello World!\n";

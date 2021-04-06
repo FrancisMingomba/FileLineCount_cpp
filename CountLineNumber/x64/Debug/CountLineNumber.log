@@ -1,0 +1,8 @@
+﻿  CountLineNumber.cpp
+C:\Users\mingo\OneDrive\Desktop\FileLineCount_cpp\CountLineNumber\CountLineNumber.cpp(52,28): error C2660: 'LineCount::count_line_in_files': function does not take 0 arguments
+C:\Users\mingo\OneDrive\Desktop\FileLineCount_cpp\CountLineNumber\CountLineNumber.cpp(14,22): message : see declaration of 'LineCount::count_line_in_files'
+  file1.cpp
+c1xx : fatal error C1083: Cannot open source file: 'file1.cpp': No such file or directory
+  File2.cpp
+c1xx : fatal error C1083: Cannot open source file: 'File2.cpp': No such file or directory
+  Generating Code...
